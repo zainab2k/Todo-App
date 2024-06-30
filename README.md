@@ -42,15 +42,17 @@ const firebaseConfig = {
 
 
 ```plaintext
+├── .firebase
+├── node_modules
 ├── public
 │   ├── index.html
 │   ├── style.css
+|   ├── App.js
 ├── .firebase
 ├── .firebaserc
 ├── firebase.json
 ├── firestore.indexes.json
 ├── package-lock.json
 ├── package.json
-├── App.js
 ├── renderTask.js
 
