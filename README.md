@@ -38,3 +38,19 @@ const firebaseConfig = {
   appId: "YOUR_APP_ID",
   measurementId: "YOUR_MEASUREMENT_ID",
 };
+
+
+
+```
+├── public
+│   ├── index.html
+│   ├── style.css
+├── .firebase
+├── .firebaserc
+├── firebase.json
+├── firestore.indexes.json
+├── package-lock.json
+├── package.json
+├── App.js
+├── renderTask.js
+```
