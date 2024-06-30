@@ -41,7 +41,7 @@ const firebaseConfig = {
 
 
 
-```
+```plaintext
 ├── public
 │   ├── index.html
 │   ├── style.css
